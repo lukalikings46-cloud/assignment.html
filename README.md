@@ -17,6 +17,8 @@ A modern, responsive website for Information and Communication University (ICU) 
 - **Progress Tracking** - Visual academic progress indicators
 - **Custom Animations** - Smooth scroll, parallax, and hover effects
 
+## Commits
+- 4
 ## 🛠️ Technologies Used
 
 - HTML5
