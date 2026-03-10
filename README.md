@@ -1,5 +1,7 @@
 # assignment.html# ICU Zambia - Information and Communication University Website
 
+GROUP TWO (2) PROJECT
+
 ![ICU Zambia Logo](images/logo.png)
 
 A modern, responsive website for Information and Communication University (ICU) Zambia, featuring a student portal, academic calendar, and comprehensive university information system.
@@ -17,12 +19,13 @@ A modern, responsive website for Information and Communication University (ICU) 
 - **Progress Tracking** - Visual academic progress indicators
 - **Custom Animations** - Smooth scroll, parallax, and hover effects
 
-## 5 Commits
+## 6 Commits
 - initial commit
 - update README with project details and fetures
 - add files via upload
 - add commits section to README
 - fix formatting and update commit section in README
+- add group details to README
   
 ## 🛠️ Technologies Used
 
